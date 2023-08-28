@@ -17,7 +17,7 @@
     {"id":3, "name":"Guinea Pig"},
     {"id":4, "name":"Horse"}
   ],
-  "breed": [
+  "breeds": [
      {"id":1, "species":"Dog", "array":["German Shepherd","Golden Retriever","Rottweiler","Bulldog","Boston Terrier"]},
      {"id":2, "species":"Cat", "array":["British Shorthair","Persian"]},
      {"id":3, "species":"Guinea Pig", "array":["English Crested"]},
